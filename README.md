@@ -1,3 +1,7 @@
-Just a little tic tac toe game
+Just a bit of what i'm doing to study programming languages
 
-You just need python installed to run it!
+Python projets: 
+1- Tic Tac Toe - just need python to run it.
+
+JS projects:
+1- calculator - just need to open it on a browser
